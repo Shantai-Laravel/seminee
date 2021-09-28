@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="40px" height="34px" viewBox="0 0 40 34" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 58 (84663) - https://sketch.com -->
+    <title>Filtru icon</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Help-Desk" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Cat-One_1440-Filtr" transform="translate(-937.000000, -318.000000)">
+            <g id="filtru-copy" transform="translate(787.000000, 256.000000)">
+                <g id="Filtru-icon" transform="translate(150.000000, 62.000000)">
+                    <rect id="Rectangle" stroke="#540C0C" fill="#690320" x="1.0053214" y="4.5" width="38" height="1" rx="0.5"></rect>
+                    <rect id="Rectangle-Copy" stroke="#540C0C" fill="#690320" x="1.5" y="16.5" width="38" height="1" rx="0.5"></rect>
+                    <rect id="Rectangle-Copy-2" fill="#690320" x="0.5053214" y="28" width="39" height="2" rx="1"></rect>
+                    <circle id="Oval" stroke="#540C0C" stroke-width="3" fill="#FFFFFF" cx="15.5053214" cy="29" r="3.5"></circle>
+                    <circle id="Oval-Copy-5" stroke="#540C0C" stroke-width="3" fill="#FFFFFF" cx="26.5053214" cy="17" r="3.5"></circle>
+                    <circle id="Oval-Copy-6" stroke="#540C0C" stroke-width="3" fill="#FFFFFF" cx="9.5053214" cy="5" r="3.5"></circle>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="10px" height="19px" viewBox="0 0 10 19" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 53 (72520) - https://sketchapp.com -->
+    <title>Shape Copy</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Symbols" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Footer" transform="translate(-970.000000, -387.000000)" fill="#FF5900" fill-rule="nonzero">
+            <g id="Social" transform="translate(440.000000, 373.000000)">
+                <g id="Fb" transform="translate(512.000000, 0.000000)">
+                    <path d="M26.1872211,17.1546551 C24.7660537,17.1546551 24.4909051,17.8210481 24.4909051,18.7990169 L24.4909051,20.955366 L27.8803354,20.955366 L27.8791347,24.3329419 L24.4909051,24.3329419 L24.4909051,33 L20.955596,33 L20.955596,24.3329419 L18,24.3329419 L18,20.955366 L20.955596,20.955366 L20.955596,18.4647344 C20.955596,15.5740696 22.7451624,14 25.3585736,14 L28,14.0041464 L27.9997999,17.1538653 L26.1872211,17.1546551 Z" id="Shape-Copy" transform="translate(23.000000, 23.500000) rotate(-360.000000) translate(-23.000000, -23.500000) "></path>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
